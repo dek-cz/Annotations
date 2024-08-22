@@ -22,11 +22,11 @@
 		"issues": "https://github.com/kdyby/annotations/issues"
 	},
 	"require": {
-		"php": "^7.1 || ^8.0",
+		"php": "^8.2",
 		"nette/di": "^3.0",
-		"nette/utils": "^2.4 || ^3.0",
+		"nette/utils": "^4.0",
 		"doctrine/annotations": "~1.6",
-		"dek-cz/doctrine-cache": "^3.1.2"
+		"dek-cz/doctrine-cache": "dev-master"
 	},
 	"require-dev": {
 		"nette/bootstrap": "^3.0",
